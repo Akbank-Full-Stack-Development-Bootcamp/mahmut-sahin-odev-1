@@ -24,7 +24,7 @@ Console.Write("Please enter a sentence: ");
 string sentence = Console.ReadLine(); // Input: Lorem Ipsum.
 
 List<string> hexList = sentence.CharHexsInArr(); // Calling extension
-hexList.ForEach(i => Console.ReadLine(i)); // Printing output
+hexList.ForEach(i => Console.WriteLine(i)); // Printing output
 /* 
 OUTPUT:
 4C
