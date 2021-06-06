@@ -11,7 +11,7 @@ public static List<string> CharHexs(this string sentence)
     foreach (var character in wordBytes)
     {
         //Adding prefix and specifying hexadecimal format
-        hexList.Add("0x" + character.ToString("X")); 
+        hexList.Add(character.ToString("X")); 
     }
     return hexList;
 }
