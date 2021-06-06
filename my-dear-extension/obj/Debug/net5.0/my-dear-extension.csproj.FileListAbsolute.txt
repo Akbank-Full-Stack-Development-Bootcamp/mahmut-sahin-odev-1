@@ -1,0 +1,16 @@
+C:\Users\mahmutsahin\source\repos\my-dear-extension\obj\Debug\net5.0\my-dear-extension.csprojAssemblyReference.cache
+C:\Users\mahmutsahin\source\repos\my-dear-extension\obj\Debug\net5.0\my-dear-extension.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mahmutsahin\source\repos\my-dear-extension\obj\Debug\net5.0\my-dear-extension.AssemblyInfoInputs.cache
+C:\Users\mahmutsahin\source\repos\my-dear-extension\obj\Debug\net5.0\my-dear-extension.AssemblyInfo.cs
+C:\Users\mahmutsahin\source\repos\my-dear-extension\obj\Debug\net5.0\my-dear-extension.csproj.CoreCompileInputs.cache
+C:\Users\mahmutsahin\source\repos\my-dear-extension\bin\Debug\net5.0\my-dear-extension.exe
+C:\Users\mahmutsahin\source\repos\my-dear-extension\bin\Debug\net5.0\my-dear-extension.deps.json
+C:\Users\mahmutsahin\source\repos\my-dear-extension\bin\Debug\net5.0\my-dear-extension.runtimeconfig.json
+C:\Users\mahmutsahin\source\repos\my-dear-extension\bin\Debug\net5.0\my-dear-extension.runtimeconfig.dev.json
+C:\Users\mahmutsahin\source\repos\my-dear-extension\bin\Debug\net5.0\my-dear-extension.dll
+C:\Users\mahmutsahin\source\repos\my-dear-extension\bin\Debug\net5.0\ref\my-dear-extension.dll
+C:\Users\mahmutsahin\source\repos\my-dear-extension\bin\Debug\net5.0\my-dear-extension.pdb
+C:\Users\mahmutsahin\source\repos\my-dear-extension\obj\Debug\net5.0\my-dear-extension.dll
+C:\Users\mahmutsahin\source\repos\my-dear-extension\obj\Debug\net5.0\ref\my-dear-extension.dll
+C:\Users\mahmutsahin\source\repos\my-dear-extension\obj\Debug\net5.0\my-dear-extension.pdb
+C:\Users\mahmutsahin\source\repos\my-dear-extension\obj\Debug\net5.0\my-dear-extension.genruntimeconfig.cache
